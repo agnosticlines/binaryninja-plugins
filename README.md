@@ -17,6 +17,7 @@ A repo with a listing of binary ninja scripts + plugins
 |[LC3 Architecture](https://github.com/kapaw/binaryninja-lc3)|[kapaw](https://github.com/kapaw)|LC3 architecture plugin for Binary Ninja|
 |[Radare2](https://github.com/Manouchehri/binaryninja-radare2)|[Manouchehri](https://github.com/Manouchehri)|Uses radare to identify extra symbols|
 |[Strings](https://github.com/Antonin-Deniau/bnstrings)|[Antonin Deniau](https://github.com/Antonin-Deniau)|Binaryninja plugin that use radare2 to find and add strings to binaryninja|
+|[RetDec](https://github.com/hugsy/binja-retdec)|[hugsy](https://github.com/hugsy)|Binary Ninja plugin to decompile binaries using RetDec API|
 
 
 
