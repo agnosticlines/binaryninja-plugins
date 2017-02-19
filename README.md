@@ -18,9 +18,8 @@ A repo with a listing of binary ninja scripts + plugins
 |[Radare2](https://github.com/Manouchehri/binaryninja-radare2)|[Manouchehri](https://github.com/Manouchehri)|Uses radare to identify extra symbols|
 |[Strings](https://github.com/Antonin-Deniau/bnstrings)|[Antonin Deniau](https://github.com/Antonin-Deniau)|Binaryninja plugin that use radare2 to find and add strings to binaryninja|
 |[RetDec](https://github.com/hugsy/binja-retdec)|[hugsy](https://github.com/hugsy)|Binary Ninja plugin to decompile binaries using RetDec API|
-
-
-
+|[Textify Function](https://github.com/rick2600/textify_function)|[rick2600](https://github.com/rick2600)|Plugin for binary ninja to textify function to copy and paste|
+|[Xref Call Finder](https://github.com/rick2600/xref_call_finder)|[rick2600](https://github.com/rick2600)|Print call chains to a target function by recursively following xrefs|
 
 Todo:
  - [ ] Catagorize Plugins
